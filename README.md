@@ -1,2 +1,2 @@
 
-[DEMO]:(https://yelnikov-andrii.github.io/2048/)
+[DEMO](https://yelnikov-andrii.github.io/2048/)
